@@ -1,7 +1,7 @@
 # Capstone-Project-Predicting-Likelihood-and-Severity-of-Road-Accidents-In-Victoria
  > My Final Capstone project for General Assmebly's Data Analytics Immersive Course
 
-> 👉 Access the technical report here (Capstone_Said_jomaa_technical_report.pdf)
+> 👉 Access the technical report [**here**](Capstone_Said_jomaa_technical_report.pdf)
 
 ## Overview
 The study aims to create a precise model that predicts the severity of accidents and identifies the key variables that contribute to Severe accidents. The collected road accident data for Victoria, Australia, spanning from 2006 to 2020, is utilized for this purpose. By employing multiple logistic regression, the study identifies the most influential variables on severe accidents and develops an approach for accident prediction. The findings of this research can assist authorities in prioritizing corrective measures to prevent accidents.
